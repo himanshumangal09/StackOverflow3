@@ -21,3 +21,8 @@ The 2019 Stack Overflow Annual Developer Survey [(See here)](https://insights.st
 There is only one notebook Stackoverflow(1).ipynb. 
 # Summary
 There are about more 225K Data Scientist and Machine Learning Engineer on Stackoverflow.Most of the Data Scientist and Machine Learning are satisified with their job and career. Most of the Data Scientist and Machine Learning Engineer are from computer science field of study.they usually work about 9-10 hrs per Day and they do not like to work on open source
+# Blog post
+
+Here is the Link for Blog post:
+
+https://medium.com/@himanshumangal09/insights-from-stack-overflows-2019-survey-of-80000-developers-for-data-scientist-4edb9ab12423?source=friends_link&sk=7da00eb65985de99dc8eb26d7db5001b
